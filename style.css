@@ -42,15 +42,13 @@ section {
 img {
   width: 290px;
   height: 290px;
-  margin: 0;
-  padding: 0;
   border-radius: 10px;
 }
 
 h1 {
   font-weight: 700;
   font-size: 1.4rem;
-  margin-top: 25px;
+  margin-top: 20px;
   padding: 0 15px;
   color: var(--dark-blue);
 }
